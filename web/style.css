@@ -7,7 +7,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
+    overflow-y: auto;
     font-family: 'Segoe UI', sans-serif;
 }
 

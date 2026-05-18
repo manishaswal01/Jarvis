@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+envjarvis/
+.env
+screenshot.png
+memory.txt
+.vscode/
